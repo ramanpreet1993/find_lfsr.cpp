@@ -1,0 +1,2 @@
+# find_lfsr.cpp
+The developed C++ code determines and prints the possible initial states of LFSR-2 &amp; LFSR-4 with the help of correlation attack since these 2 LFSRs are prone to it &amp; also displays their occurrence probabilities in the output sequence. Then it outputs the initial states of LFSR-1 &amp; LFSR-3 with the help of exhaustive search since they are immune against the correlation attack.
